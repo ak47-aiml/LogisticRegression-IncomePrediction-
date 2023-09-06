@@ -1,4 +1,4 @@
-# Use Income Prediction dataset and apply Data Preprossor to process data
+# Use Income Prediction dataset 
 
 Data processing steps:
   Load dataset
